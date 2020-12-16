@@ -1,0 +1,10 @@
+D:\TGIANN\tgiann-fivem-basic-launcher\launcher\bin\Debug\ExRp Launcher.exe.config
+D:\TGIANN\tgiann-fivem-basic-launcher\launcher\bin\Debug\ExRp Launcher.exe
+D:\TGIANN\tgiann-fivem-basic-launcher\launcher\bin\Debug\ExRp Launcher.pdb
+D:\TGIANN\tgiann-fivem-basic-launcher\launcher\obj\Debug\launcher.csprojAssemblyReference.cache
+D:\TGIANN\tgiann-fivem-basic-launcher\launcher\obj\Debug\launcher.Form1.resources
+D:\TGIANN\tgiann-fivem-basic-launcher\launcher\obj\Debug\ExRpLauncher.Properties.Resources.resources
+D:\TGIANN\tgiann-fivem-basic-launcher\launcher\obj\Debug\launcher.csproj.GenerateResource.cache
+D:\TGIANN\tgiann-fivem-basic-launcher\launcher\obj\Debug\launcher.csproj.CoreCompileInputs.cache
+D:\TGIANN\tgiann-fivem-basic-launcher\launcher\obj\Debug\ExRp Launcher.exe
+D:\TGIANN\tgiann-fivem-basic-launcher\launcher\obj\Debug\ExRp Launcher.pdb
