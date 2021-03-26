@@ -24,7 +24,7 @@ namespace launcher
             System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
             startInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
             startInfo.FileName = "cmd.exe";
-            startInfo.Arguments = "/C Start fivem://connect/" + "FivemIpAddress(ex:0.0.0.1:30120)";
+            startInfo.Arguments = "/C explorer fivem://connect/" + "FivemIpAddress(ex:0.0.0.1:30120)";
             process.StartInfo = startInfo;
             process.Start();
         }

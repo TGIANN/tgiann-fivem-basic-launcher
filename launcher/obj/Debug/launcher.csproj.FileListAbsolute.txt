@@ -8,3 +8,13 @@ D:\TGIANN\tgiann-fivem-basic-launcher\launcher\obj\Debug\launcher.csproj.Generat
 D:\TGIANN\tgiann-fivem-basic-launcher\launcher\obj\Debug\launcher.csproj.CoreCompileInputs.cache
 D:\TGIANN\tgiann-fivem-basic-launcher\launcher\obj\Debug\ExRp Launcher.exe
 D:\TGIANN\tgiann-fivem-basic-launcher\launcher\obj\Debug\ExRp Launcher.pdb
+D:\Github Repo\tgiann-fivem-basic-launcher\launcher\bin\Debug\ExRp Launcher.exe.config
+D:\Github Repo\tgiann-fivem-basic-launcher\launcher\bin\Debug\ExRp Launcher.exe
+D:\Github Repo\tgiann-fivem-basic-launcher\launcher\bin\Debug\ExRp Launcher.pdb
+D:\Github Repo\tgiann-fivem-basic-launcher\launcher\obj\Debug\launcher.csprojAssemblyReference.cache
+D:\Github Repo\tgiann-fivem-basic-launcher\launcher\obj\Debug\launcher.Form1.resources
+D:\Github Repo\tgiann-fivem-basic-launcher\launcher\obj\Debug\ExRpLauncher.Properties.Resources.resources
+D:\Github Repo\tgiann-fivem-basic-launcher\launcher\obj\Debug\launcher.csproj.GenerateResource.cache
+D:\Github Repo\tgiann-fivem-basic-launcher\launcher\obj\Debug\launcher.csproj.CoreCompileInputs.cache
+D:\Github Repo\tgiann-fivem-basic-launcher\launcher\obj\Debug\ExRp Launcher.exe
+D:\Github Repo\tgiann-fivem-basic-launcher\launcher\obj\Debug\ExRp Launcher.pdb
